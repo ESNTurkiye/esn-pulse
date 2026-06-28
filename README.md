@@ -22,7 +22,7 @@
 
 ## Core idea
 
-- **Inspire → Adapt → Execute.** ESN sections discover what has worked across the network, adapt it to their local context and run better events.
+- **Inspire -> Adapt -> Execute.** ESN sections discover what has worked across the network, adapt it to their local context and run better events.
 - **No manual tagging.** Semantic embeddings are generated directly from activity content no extra work for organizers.
 - **Discovery first.** The system surfaces relevant activities before a user knows what to search for.
 
