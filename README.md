@@ -58,8 +58,8 @@
 - **Vector database**: a database that stores embeddings and enables efficient nearest-neighbor search.
 - **Cause**: one of ESN's six thematic areas that activities are organized around (e.g. Education and Youth, Environmental Sustainability).
 - **Recommendation**: a ranked list of semantically similar past activities returned in response to a user's input.
-- **Inspire → Adapt → Execute**: the intended workflow discover a relevant activity from another section, adapt it to the local context and run it.
+- **Inspire -> Adapt -> Execute**: the intended workflow discover a relevant activity from another section, adapt it to the local context and run it.
 
 ---
 
-**[ESN PULSE](https://github.com/ESNTurkiye/esn-pulse)** was created in 2026 by the ESN Turkey web team for [Erasmus Student Network](https://esn.org) the latter is free to use it, develop it and maintain it at free will, forever.
+**[ESN PULSE](https://github.com/ESNTurkiye/esn-pulse)** was created in 2026 by the ESN Türkiye webteam for [Erasmus Student Network](https://esn.org) the latter is free to use it, develop it and maintain it at free will, forever.
